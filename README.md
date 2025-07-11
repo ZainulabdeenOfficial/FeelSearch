@@ -77,6 +77,13 @@ FeelSearch/
 └── tsconfig.json
 ```
 ---
+## 🗣️ Issues & Community Discussions
+
+Have feedback, ideas, or bugs to report? Join the community and help shape the future of FeelSearch!
+
+- 🐛 Found a bug? [Open an issue](https://github.com/ZainulabdeenOfficial/FeelSearch/issues)
+- 💡 Got a suggestion? Start a [discussion thread](https://github.com/ZainulabdeenOfficial/FeelSearch/discussions)
+- 🙋 Want to contribute? Check out [good first issues](https://github.com/ZainulabdeenOfficial/FeelSearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 
 ## 🛠️ Getting Started
 
