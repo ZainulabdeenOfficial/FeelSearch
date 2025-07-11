@@ -58,19 +58,24 @@
     F --> G[Result Page Render]
 ```
 
+
+
 ---
-
-## 🧾 Project Structure
-
 ```
 FeelSearch/
-├── backend/         # Server-side logic (Node.js / ASP.NET)
-├── frontend/        # Client-side (Angular or React)
-├── assets/          # Media and static files
-├── database/        # SQL/NoSQL schema (not in use yet)
-└── README.md
+├── public/                # Static assets like favicon, index.html
+├── src/                   # Core app source
+│   ├── components/        # Reusable UI components (search bar, results card, etc.)
+│   ├── pages/             # Pages like Home, About, Features, etc.
+│   ├── services/          # API logic and handlers (emotion engine, etc.)
+│   ├── styles/            # SCSS/CSS styles
+│   └── main.tsx           # Entry point of the frontend (React or Angular)
+├── .gitignore
+├── README.md
+├── LICENSE.md
+├── package.json
+└── tsconfig.json
 ```
-
 ---
 
 ## 🛠️ Getting Started
